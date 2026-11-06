@@ -1,0 +1,15 @@
+# Cadence Innovus / Genus EDA Temporary Files
+*.log*
+*.cmd*
+*.cmd
+innovus.log*
+genus.log*
+genus.cmd*
+cds.lib
+hdl.var
+fv/
+design/*.enc
+design/*.enc.dat
+*.swp
+*~
+.DS_Store
